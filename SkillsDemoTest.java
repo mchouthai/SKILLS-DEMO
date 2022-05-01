@@ -4,7 +4,7 @@ public class SkillsDemoTest {
 
     @Test
     public void division() {
-        assertEquals(2.5, SkillsDemo.divide(5,3), 0.001);
+        assertEquals(2.5, SkillsDemo.divide(5,2), 0.001);
 }
     
 }
